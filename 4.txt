@@ -1,0 +1,18 @@
+> 5`-3` ORF1
+Forward Primer - GAATTCAGGACTGAATCGTGC	Tm(in deg C) - 62
+Reverse Primer - CAACAGGCATCTACTGAGTGGA	Tm(in deg C) - 66
+> 5`-3` ORF2
+Forward Primer - TTCAGGACTGAATCGTGCTCA	Tm(in deg C) - 62
+Reverse Primer - CAACAGGCATCTACTGAGTGGA	Tm(in deg C) - 66
+> 5`-3` ORF3
+Forward Primer - AGGACTGAATCGTGCTCACAA	Tm(in deg C) - 62
+Reverse Primer - CAACAGGCATCTACTGAGTGGA	Tm(in deg C) - 66
+> 3`-5` ORF1
+Forward Primer - AGCAAGCAACTCAAATGTCCC	Tm(in deg C) - 62
+Reverse Primer - TTCAGGACTGAATCGTGCTCAC	Tm(in deg C) - 66
+> 3`-5` ORF2
+Forward Primer - GCAAGCAACTCAAATGTCCCA	Tm(in deg C) - 62
+Reverse Primer - AATTCAGGACTGAATCGTGCTC	Tm(in deg C) - 64
+> 3`-5` ORF3
+Forward Primer - CAAGCAACTCAAATGTCCCAC	Tm(in deg C) - 62
+Reverse Primer - AATTCAGGACTGAATCGTGCTC	Tm(in deg C) - 64
